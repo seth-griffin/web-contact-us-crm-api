@@ -1,6 +1,6 @@
 HELP.md
 .gradle
-api/build
+build
 deploy
 *.jar
 !gradle/wrapper/gradle-wrapper.jar
