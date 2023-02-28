@@ -1,0 +1,7 @@
+GTA_API_DB_NAME=gta
+GTA_API_DB_USERNAME=root
+GTA_API_DB_PW=vagrant
+GTA_API_MAIL_HOST=mail.gtaaustin.com
+GTA_API_MAIL_PORT=587
+GTA_API_MAIL_USERNAME=info@gtaaustin.com
+GTA_API_MAIL_PW=
